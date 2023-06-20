@@ -94,6 +94,7 @@ main .cartao-times .titulos {
 }
 
 main .cartao-times .estado {
+  margin: auto;
   padding: 8px;
   border-radius: 10px;
 }
